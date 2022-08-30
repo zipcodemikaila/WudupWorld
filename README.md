@@ -1,7 +1,14 @@
 # WudupWorld
-my first code pushed 
-buildetter	cohort12	fakenews
-mikailaakeredolu@mikailas-MacBook-Pro Documents % 
-mikailaakeredolu@mikailas-MacBook-Pro ~ % mkdir demofolder
-mikailaakeredolu@mikailas-MacBook-Pro ~ % cd demofolder 
-mikailaakeredolu@mikailas-MacBook-Pro demofolder % pwd
+public class Player {
+    public static void main(String[] args) {
+        //creating data tyopes and variables
+        int cx = 99;
+        System.out.println(cx);
+    }
+}
+
+//Create an intellij Maven project
+//Create a Java class filed named Person
+//Put a public static void main inside
+//Print out I got this shit!
+
